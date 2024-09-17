@@ -6,5 +6,6 @@ parser.c
 parser.h
 front.c
 front.h
-makefile
+Makefile
 
+Half of parser was given in class by a textbook -- parts I added are marked with "NEW" and "ADDED"
